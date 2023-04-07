@@ -1,5 +1,4 @@
 Esta es la historia de Jahir Cañote
- 
 Jahir Cañote tiene 43 años, nacio en peru, 
 viviendo en todo el mundo y estudiando programaci&oacute;n.
 Hoy hablaremos de su  vida y su obra maestra.
@@ -7,5 +6,3 @@ Joan es un Pro...
 Joan y Evy son unos blogueros...
 Joan tiene 9 años y le gusta viajar por todo el mundo, simplemente fachero. Le gusta comprar cards de Stumble Guys...
 Desea ser creador de Commics.
-Joan jahir es una persona que contribuye a este proyecto open source en  platzi.
-Consultando a roy... Arreglando el error de credenciales
