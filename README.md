@@ -17,7 +17,8 @@ Un blog incleible para mi aprendizaje en el [**curso de Git y Github**] de https
 - Trucos muy locos del profesor.
 - Las personalidades multiples de Freddy y Profesionalismo.
 - Creado por el increible Platzi Team.
-- Incluye ejemplos en Windows, Linux y Mac
+- Incluye ejemplos en Windows, Linux y Mac.
+- Disponible para todas las edades.
 
 ####Diseñado por Jahir Cañote Sanchez,
 Fiel estudiante de Platzi y Gran Padre a la vez, que Ama Tanto a sus hijos y Esposa.
