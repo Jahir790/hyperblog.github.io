@@ -16,6 +16,7 @@ Un blog incleible para mi aprendizaje en el [**curso de Git y Github**] de https
 - El verdadero amor por las buenas practicas.
 - Trucos muy locos del profesor.
 - Las personalidades multiples de Freddy y Profesionalismo.
+- Creado por el increible Platzi Team.
 
 ####Diseñado por Jahir Cañote Sanchez,
 Fiel estudiante de Platzi y Gran Padre a la vez, que Ama Tanto a sus hijos y Esposa.
